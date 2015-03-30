@@ -1,0 +1,33 @@
+h1 {
+	color: black;
+	font-size: 40px;
+	font-family: 'Josefin Slab', serif;
+	box-shadow:
+  0 0 20px black,
+  20px 15px 30px #FFCCFF,
+  -20px 15px 30px #CCFFCC,
+  -20px -15px 30px #33CCFF,
+  20px -15px 30px #FFCC66;
+  width: 250px;
+  padding-left:0px;
+
+}
+
+
+
+.backgroundImg {
+	background-image: url(http://images.forwallpaper.com/files/images/d/da9e/da9e0ead/112346/sea-mark-minimalism.jpg);
+	background-size: contain;
+}
+
+
+
+#milk, #sugar, #cereal, #chicken, #beef, #pork, #carp, #tuna, #salmon {
+	background-color: #FFFFCC;
+	font-size:18px;
+	font-family: 'Josefin Slab', serif;
+}
+
+#typeOffood {
+	padding-left:0px;
+}
